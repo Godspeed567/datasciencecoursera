@@ -1,8 +1,5 @@
 ---
-title: "HelloWorld"
-output: word_document
 title: "helloworld"
-output: html_document
 output: word_document
 ---
 
