@@ -9,4 +9,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 ## This is a markdown file 
-
